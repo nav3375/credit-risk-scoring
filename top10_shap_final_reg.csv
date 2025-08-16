@@ -1,0 +1,11 @@
+feature,mean_abs_shap
+checking_status_A14,0.062455
+checking_status_A11,0.028999
+savings_status_A61,0.024515
+credit_history_A34,0.023023
+checking_status_A12,0.017631
+duration,0.017127
+purpose_A43,0.014264
+purpose_A40,0.013343
+property_magnitude_A124,0.012527
+property_magnitude_A121,0.011737
